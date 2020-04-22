@@ -1,7 +1,10 @@
 body {
   background :pink;
 }
-
+h1 {
+  color: blue;
+  font-size: 3em;
+}
 
 h2 {
   color: green;
@@ -17,7 +20,4 @@ h2 {
   background: #ccc;
   text-decoration: underline;
 }
-h1 {
-  color: blue;
-  font-size: 3em;
-}
+
