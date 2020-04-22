@@ -2,12 +2,12 @@ body {
   background :pink;
 }
 
-h1 {
+.h1 {
   color: blue;
   font-size: 12px;
 }
 
-h2 {
+.h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
